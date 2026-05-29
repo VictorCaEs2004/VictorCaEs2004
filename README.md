@@ -17,7 +17,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
  
 <br>
  
-### Siga também nas demais redes sociais e torne-se um ferinha
+### Siga também nas demais redes sociais e torne-se um fera
  
 <div>
   <a href="https://www.instagram.com/victoryusan/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
